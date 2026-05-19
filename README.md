@@ -1,66 +1,101 @@
 # SoC-RL
 
-This Seasons of Code project under the Web and Coding Club, IIT Bombay is being mentored by [Aditya Sanapala](https://github.com/adityasanapala).
+Welcome to the repository for the first edition of **Reinforcement Learning** in **Seasons of Code**! This repository contains weekly tasks, curated resources, and learning materials for the RL track of the 2026 edition of **Seasons of Code**.
 
-## Contents
+The project is designed to help participants build a strong foundation in **Reinforcement Learning**, covering both theoretical concepts and practical implementations through hands-on assignments and projects.
 
-- [WEEK 0](#week-0)
-    - [Resources for Git](#resources-for-git)
-    - [Resources for Python](#resources-for-python)
-    - [Resources for Numpy](#resources-for-numpy)
-    - [Resources for Pandas](#resources-for-pandas)
-    - [Resources for Matplotlib](#resources-for-matplotlib)
-    - [Combined Resources](#combined-resources)
-- [WEEK 1](#week-1)
-- [WEEK 2](#week-2)
-- [WEEK 3](#week-3)
+This Seasons of Code project, organized under the Web and Coding Club, IIT Bombay, is mentored by [Aditya Sanapala](https://github.com/adityasanapala).
+
+<!---
+- Markov Decision Processes (MDPs)
+- Dynamic Programming
+- Monte Carlo Methods
+- Temporal Difference Learning
+- Q-Learning and SARSA
+- Deep Reinforcement Learning
+- Policy Gradient Methods
+- Actor-Critic Architectures
+- Applications of RL in real-world environments
+--->
+
+## Table of Contents
+
+- [Weekly Plan](#weekly-plan)
+- [Week 1](#week-1)
+- [Week 2](#week-2)
+- [Coming Soon](#coming-soon)
+- [References](#references)
+<!--- 
+[Week 3](#week-3)
+- [Week 4](#week-4)
+--->
+
+<!---
+  - [Week 5](#-week-5)
+  - [Week 6](#-week-6)
+  - [Week 7](#-week-7)
+  - [Week 8](#-week-8)
+--->
 
 This project focuses on introducing you to the world of Reinforcement Learning by solving puzzles (and interacting with us....) in the most fun way possible!!!!
 
-## Week 0:
+---
 
-In the Week 0, we want you to learn Python (Python is a good relief if you're bored of C++ from CS 101 this sem) and modules like numpy, pandas and matplotlib (They are the goto libraries and the first imported when you're starting with any DS project, so it's good to have a grasp on them)
+## Weekly Plan
 
-Choose whatever resource suits you and get acquainted with the modules to move forward with the project.
+Each week, new tasks will be released in dedicated folders such as `Week 2`, `Week 3`, and so on, with every module progressively building on concepts and skills from previous weeks.
 
-### Resources for Git
+### What Each Week Includes
 
-I'd love it if you also learn git for working with projects (it's very useful for version control and team integration)
+Every weekly module is designed to provide a balanced learning experience and will typically contain:
 
-This is a good lecture on git for beginners
+- **Warmup Exercises**  
+  Short problems or activities to help you revise previous concepts and prepare for the week ahead.
 
-Git - https://youtu.be/NcoBAfJ6l2Q?si=FRLMmKKwj01E8ePw
+- **Theory & Learning Resources**  
+  Core topics, notes, and recommended resources that you are expected to study before attempting the practical tasks.
 
-### Resources for Python
+- **Coding & Practice Tasks**  
+  Hands-on exercises aimed at strengthening your understanding through implementation and problem-solving.
 
-This is a good video but long, should keep you occupied for a bit.
+- **Weekly Contest / Challenge**  
+  A contest or timed challenge at the end of the week to assess your progress and apply everything learned throughout the module.
 
-Programming with Mosh: [Youtube](https://youtu.be/_uQrJ0TkZlc?si=gfn-7_-chO-J60hD)
+### Submission Guidelines
 
-### Resources for Numpy
+All submissions must follow the instructions and directory structure specified in the [`CONTRIBUTING.md`](https://github.com/adityasanapala/SoC-RL/blob/main/CONTRIBUTING.md) file. Ensure your work is properly organized and submitted within the designated folders.
 
-Numpy Tutorial - [Numpy Official Website](https://numpy.org/doc/2.1/user/quickstart.html)
+### Important Notes
+
+- Complete each week before moving on to the next module, as upcoming tasks will rely heavily on prior concepts.
+- Maintain clean, readable, and well-documented code wherever applicable.
+- Consistency is key - regular participation and timely completion of tasks will help you get the most out of the program.
+
+---
+
+## Week 1
+
+We begin by learning Python (a refreshing change if you're tired of C++ from CS101 in the previous semester) and developing familiarity with essential scientific computing libraries such as NumPy, Pandas, and Matplotlib. These are the go-to libraries and are often the first imports in any Data Science project, so having a solid grasp of them is highly beneficial. This phase will also introduce you to Jupyter Notebooks, which are widely used for experimentation, visualization, and interactive coding in both academia and industry.
+
+Once this foundation is complete, we will move on to the mathematical and algorithmic fundamentals required for Reinforcement Learning, including probability, optimization, and core machine learning concepts, followed by an introduction to Markov Decision Processes (MDPs) and the basics of agent-environment interaction in the upcoming weeks.
+
+There are multiple resources provided, as different people will be acquainted with different methods of learning. There is no compulsion to go through everything - choose whichever resource suits you best and get acquainted with the modules to move forward with the project.
 
 
+👉 **Access the Week 1 tasks and instructions here:**
+[Week 1/README.md](https://github.com/adityasanapala/SoC-RL/tree/main/Week%201)
 
-### Resources for Pandas
+---
 
-Pandas Tutorial - https://youtu.be/vmEHCJofslg?si=1efKYTqQRdDECaNE
+## Week 2
 
-Official Tutorials - https://pandas.pydata.org/pandas-docs/version/0.15/tutorials.html
+Work in progress, coming soon...
 
-### Resources for Matplotlib
+---
 
-You can just look up what plot you want at that moment for matplotlib or 
+## References
 
-Official Tutorial - https://matplotlib.org/stable/tutorials/index.html
-
-### Combined Resources
-
-Numpy, Pandas and Matplotlib in a Playlist - https://youtube.com/playlist?list=PL9n0l8rSshSnragNblKDBsT8Xu3otp3jA&si=1zoqrRjvGLP4QMmU
-
-Some Python Notebooks for your practice can be found in the [Week 0 Folder](./Week%200/)
-
+<!---
 
 ## Week 1:
 
@@ -85,3 +120,70 @@ Read the Chapter in Sutton and Barto and implement the algorithms in the [work_o
 - Make sure you have fun while doing them and don't restrict yourself to just solving the problem but try exploring the problem and the solution in depth.
 
 - I'm sad nobody found the Miguel Morales reference! :(
+
+
+<!---
+
+
+
+
+
+---
+
+
+
+
+
+## Week 2
+
+
+
+<!---👉 **Access the Week 2 tasks and instructions here:**
+[Week 2/README.md](https://github.com/adityasanapala/SoC-Al-Gore-Rhythmic-Ascent/tree/main/Week%202)
+--->
+
+<!---
+
+## 📅 Week 3
+👉 **Access the Week 3 tasks and instructions here:**
+[Week 3/README.md](https://github.com/adityasanapala/SoC-Al-Gore-Rhythmic-Ascent/tree/main/Week%203)
+
+---
+
+## 📅 Week 4
+👉 **Access the Week 4 tasks and instructions here:**
+[Week 4/README.md]()
+
+--->
+
+<!---# Coming Soon--->
+
+
+
+<!---
+## 📅 Week 5
+👉 **Access the Week 5 tasks and instructions here:**
+[Week 5/README.md]()
+
+---
+
+## 📅 Week 6
+👉 **Access the Week 6 tasks and instructions here:**
+[Week 6/README.md]()
+
+---
+
+## 📅 Week 7
+👉 **Access the Week 7 tasks and instructions here:**
+[Week 7/README.md]()
+
+---
+
+## 📅 Week 8
+👉 **Access the Week 8 tasks and instructions here:**
+[Week 8/README.md]()
+--->
+
+---
+
+
