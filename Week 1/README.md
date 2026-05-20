@@ -10,15 +10,25 @@ The idea is to learn how these computing modules help us with implementing ML mo
 
 ---
 
-## Pre-Task (optional, but recommended)
+## Warm-up Task
+
+The warm-up consists of revising/learning Python and getting familiar with the [Jupyter Notebook](https://jupyter.org/) environment. Jupyter is an open-source web-based interactive computing platform that allows users to create and share documents containing live code, equations, visualizations, and explanatory text.
+
+Here are some good videos that explain how to use the Jupyter environment:
+
+- [Corey Schafer's Guide](https://youtu.be/HW29067qVWk?si=UFaOC6-Kj0csL9vG)
+- [Rob Mulla's Guide](https://youtu.be/5pf0_bpNbkw?si=5j1x0BH4ceDFCnBo)
+
+If you don't want to bother with the setup involved in Jupyter, you could also use [Google Colab](https://colab.research.google.com/). It has many more tools available (including AI features), but I would recommend against using the AI tools for now.
+
+Here's a tutorial on Google Colab (the video uses Tensorflow for the demo, it is not needed for the course at the moment):
+
+- [Tensorflow on Colab](https://youtu.be/inN8seMm7UI?si=n0PEguW0w9I8qESd)
+
 
 This is a good video but long, should keep you occupied for a bit.
 
 Programming with Mosh: [Youtube](https://youtu.be/_uQrJ0TkZlc?si=gfn-7_-chO-J60hD)
-
----
-
-## Warm-up Task
 
 Choose whatever resource suits you and get acquainted with the modules to move forward with the project.
 
